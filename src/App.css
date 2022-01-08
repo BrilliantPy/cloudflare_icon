@@ -1,0 +1,16 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+  box-sizing: border-box;
+  margin: 10px;
+}
+.contentList{
+  display: block;
+  word-wrap: normal;
+}
+.groupContent{
+  display: inline-block;
+}
+.groupContent:hover{
+  opacity: 0.6;
+}
